@@ -55,7 +55,7 @@ function showImages(category) {
         shirts: ['Images/Shirt1.png', 'Images/Shirt2.png', 'Images/Shirt3.png', 'Images/Shirt4.png', 'Images/Shirt5.png'],
         shorts: ['Images/Shorts1.png', 'Images/Shorts2.png', 'Images/Shorts3.png'],
         suits: ['Images/Suit1.png'],
-        dresses: ['Images/Dress1.png', 'Images/Dress2.png', 'Images/Dress3.png', 'Images/Dress4.png'],
+        //dresses: ['Images/Dress1.png', 'Images/Dress2.png', 'Images/Dress3.png', 'Images/Dress4.png'],
         skirts: ['Images/Skirts1.png', 'Images/Skirts2.png',],
         shortsW: ['Images/ShortsW1.png', 'Images/ShortsW2.png', 'Images/ShortsW3.png'],
         jeans: ['Images/Jeans1.png', 'Images/Jeans2.png', 'Images/Jeans3.png', 'Images/Jeans4.png'],
